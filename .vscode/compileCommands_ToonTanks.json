@@ -16,6 +16,22 @@
 		"directory": "F:\\UE_5.2\\Engine\\Source"
 	},
 	{
+		"file": "E:\\Game Development\\ToonTanks\\Source\\ToonTanks\\HealthComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\ToonTanks\\Source\\ToonTanks\\HealthComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
 		"file": "E:\\Game Development\\ToonTanks\\Source\\ToonTanks\\Projectile.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
@@ -65,6 +81,38 @@
 	},
 	{
 		"file": "E:\\Game Development\\ToonTanks\\Source\\ToonTanks\\ToonTanks.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@E:\\Game Development\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
